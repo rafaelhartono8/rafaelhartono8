@@ -12,9 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/rafaelhartono8">
-    <img src="https://
-    github-stats-extended.vercel.app/
-    api?username=rafaelhartono8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Rafael's GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=rafaelhartono8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Rafael's GitHub Stats" />
   </a>
 </p>
 
