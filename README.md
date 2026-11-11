@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Rafael Huang (黄永生) ✨</h1>
+<h1 align="center">Hi there, I'm Rafael (黄永生) ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Data+Science+Student+%40+UNESA;AI+%26+Computer+Vision+Enthusiast;Drone+%26+Satellite+Monitoring;CachyOS+Linux+Ricer+%F0%9F%90%A7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Data+Science+Student+at+UNESA+(State+University+of+Surabaya);AI+%26+Computer+Vision+Enthusiast;Drone+%26+Satellite+Monitoring;CachyOS+Linux+Ricer+%F0%9F%90%A7" alt="Typing SVG" />
 </p>
 
 ---
