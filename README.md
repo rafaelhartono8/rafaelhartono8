@@ -31,6 +31,24 @@
 
 ---
 
+### 📌 Top Projects
+
+<p align="center">
+  <a href="https://github.com/rafaelhartono8/amazon_review">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelhartono8&repo=amazon_review&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Amazon Review Repo" />
+  </a>
+  <a href="https://github.com/rafaelhartono8/bitcoin-macro-analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelhartono8&repo=bitcoin-macro-analysis&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Bitcoin Macro Analysis Repo" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/rafaelhartono8/Multi-Asset-Analysis-1927-to-Now">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelhartono8&repo=Multi-Asset-Analysis-1927-to-Now&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Multi-Asset Analysis Repo" />
+  </a>
+</p>
+
+---
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelhartono8/rafaelhartono8/output/github-contribution-grid-snake-dark.svg" />
