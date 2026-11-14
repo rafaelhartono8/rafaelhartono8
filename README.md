@@ -11,6 +11,9 @@
 </p>
 
 <div align="center">
+  <a href="https://github.com/rafaelhartono8">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/rafaelhuang88">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -23,31 +26,6 @@
   <br />
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="Divider">
 </div>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px" alt="Stats Icon"> Profile & Language Stats
-
-<p align="center">
-  <a href="https://github.com/rafaelhartono8">
-    <img src="https://github-stats-extended.vercel.app/api?username=rafaelhartono8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide_rank=true" width="49%" alt="Rafael's GitHub Stats" />
-  </a>
-  <a href="https://github.com/rafaelhartono8">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rafaelhartono8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="49%" alt="Top Languages" />
-  </a>
-</p>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" alt="Activity Icon"> Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/rafaelhartono8">
-    <img src="https://streak-stats.demolab.com/?user=rafaelhartono8&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/38bdf8/rafaelhartono8" width="90%" alt="Rafael's Contribution Chart" />
-</div>
-
----
 
 ### 🚀 Interests & Explorations
 
@@ -80,6 +58,31 @@
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=rafaelhartono8&repo=Multi-Asset-Analysis-1927-to-Now&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Multi-Asset Analysis Repo" />
   </a>
 </p>
+
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px" alt="Stats Icon"> Profile & Language Stats
+
+<p align="center">
+  <a href="https://github.com/rafaelhartono8">
+    <img src="https://github-stats-extended.vercel.app/api?username=rafaelhartono8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide_rank=true" width="49%" alt="Rafael's GitHub Stats" />
+  </a>
+  <a href="https://github.com/rafaelhartono8">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rafaelhartono8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="49%" alt="Top Languages" />
+  </a>
+</p>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" alt="Activity Icon"> Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/rafaelhartono8">
+    <img src="https://streak-stats.demolab.com/?user=rafaelhartono8&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/38bdf8/rafaelhartono8" width="90%" alt="Rafael's Contribution Chart" />
+</div>
 
 <div align="center">
   <br />
