@@ -10,7 +10,7 @@
   <em>"Nothing is Instant and Instant is Nothing"</em>
 </p>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/rafaelhartono8">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
@@ -20,10 +20,10 @@
   <a href="mailto:24031554166@mhs.unesa.ac.id">
     <img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="Email Badge"/>
   </a>
-</div>
+  <img src="https://komarev.com/ghpvc/?username=rafaelhartono8&label=Views&color=181717&style=for-the-badge" alt="Visitor Count"/>
+</p>
 
 <div align="center">
-  <br />
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="Divider">
 </div>
 
@@ -87,8 +87,4 @@
 <div align="center">
   <br />
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="Divider">
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rafaelhartono8&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Visitor Count"/>
 </div>
