@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Data+Science+Student+at+UNESA+(State+University+of+Surabaya);AI%2C+Computer+Vision+%26+NLP+Enthusiast;Drone+%26+Satellite+Geospatial+Monitoring;Business+Intelligence+%26+Workflow+Automation;CachyOS+Linux+Ricer+%F0%9F%90%A7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Data+Science+Student+at+UNESA+(State+University+of+Surabaya);AI%2C+Computer+Vision+%26+NLP+Enthusiast;Quantitative+Finance+%26+Time-Series+Modeling;Drone+%26+Satellite+Geospatial+Monitoring;Business+Intelligence+%26+Workflow+Automation;CachyOS+Linux+Ricer+%F0%9F%90%A7" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
   <a href="https://github.com/rafaelhartono8">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/rafaelhartono8">
+  <a href="https://www.linkedin.com/in/rafaelhuang88">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:24031554166@mhs.unesa.ac.id">
@@ -29,12 +29,12 @@
 
 ### 🚀 Interests & Explorations
 
-- **🧠 Artificial Intelligence & Vision**  
-  *Machine Learning, Computer Vision, YOLO Object Detection, and AI Surveillance*
+- **🧠 AI, Computer Vision & NLP**  
+  *Machine Learning, Deep Learning, Digital Image Processing, Object Detection, OCR, and Large Language Models*
+- **📈 Quantitative Finance & Time-Series**  
+  *Multi-Asset Market Analytics, Macroeconomic Modeling, Digital Signal Processing (DSP), and Financial ETL*
 - **🛰️ Spatial & Aerial Systems**  
-  *Drone Development, Satellite Monitoring, and Geospatial Analysis*
-- **💬 Language & Information Processing**  
-  *Natural Language Processing, OCR (Optical Character Recognition), and Machine Translation*
+  *Satellite Monitoring, Remote Sensing, Drone Systems, and Geospatial Analysis*
 - **💼 Business Intelligence & Automation**  
   *Workflow Automation, Operations Optimization, and Data-Driven Business Models*
 
