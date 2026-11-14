@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Data+Science+Student+at+UNESA+(State+University+of+Surabaya);AI%2C+Computer+Vision+%26+NLP+Enthusiast;Quantitative+Finance+%26+Time-Series+Modeling;Drone+%26+Satellite+Geospatial+Monitoring;Business+Intelligence+%26+Workflow+Automation;CachyOS+Linux+Ricer+%F0%9F%90%A7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Data+Science+Student+at+UNESA+(State+University+of+Surabaya);AI%2C+Deep+Learning%2C+Computer+Vision+%26+NLP;Quantitative+Finance+%26+Time-Series+Modeling;Spatial%2C+Satellite+%26+Drone+Systems;Business+Intelligence+%26+Workflow+Automation;CachyOS+Linux+Ricer+%F0%9F%90%A7" alt="Typing SVG" />
 </p>
 
 <p align="center">
