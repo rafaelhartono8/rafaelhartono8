@@ -14,7 +14,7 @@
   <a href="https://github.com/rafaelhartono8">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/rafaelhuang88">
+  <a href="https://www.linkedin.com/in/rafaelhartono8">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:24031554166@mhs.unesa.ac.id">
