@@ -20,7 +20,7 @@
   <a href="mailto:24031554166@mhs.unesa.ac.id">
     <img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="Email Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=rafaelhartono8&label=Views&color=181717&style=for-the-badge" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=rafaelhartono8&label=Views&color=38bdf8&style=for-the-badge" alt="Visitor Count"/>
 </p>
 
 <div align="center">
