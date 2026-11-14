@@ -27,10 +27,15 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" alt="Activity Icon"> Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelhartono8&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true&hide_title=true" width="98%" alt="Activity Graph">
-</div>
+<p align="center">
+  <a href="https://github.com/rafaelhartono8">
+    <img src="https://streak-stats.demolab.com/?user=rafaelhartono8&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  </a>
+</p>
 
+<div align="center">
+  <img src="https://ghchart.rshah.org/38bdf8/rafaelhartono8" width="90%" alt="Rafael's Contribution Chart" />
+</div>
 ---
 
 ### 🚀 Interests & Explorations
