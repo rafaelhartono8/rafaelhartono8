@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Data+Science+Student+at+UNESA+(State+University+of+Surabaya);AI+%26+Computer+Vision+Enthusiast;Drone+%26+Satellite+Monitoring;CachyOS+Linux+Ricer+%F0%9F%90%A7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Data+Science+Student+at+UNESA+(State+University+of+Surabaya);AI%2C+Computer+Vision+%26+NLP+Enthusiast;Drone+%26+Satellite+Geospatial+Monitoring;Business+Intelligence+%26+Workflow+Automation;CachyOS+Linux+Ricer+%F0%9F%90%A7" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -36,6 +36,7 @@
 <div align="center">
   <img src="https://ghchart.rshah.org/38bdf8/rafaelhartono8" width="90%" alt="Rafael's Contribution Chart" />
 </div>
+
 ---
 
 ### 🚀 Interests & Explorations
@@ -46,8 +47,8 @@
   *Drone Development, Satellite Monitoring, and Geospatial Analysis*
 - **💬 Language & Information Processing**  
   *Natural Language Processing, OCR (Optical Character Recognition), and Machine Translation*
-- **💼 Business Intelligence & Operations**  
-  *Operations Optimization, Tech-driven Business Models, and Resource Efficiency*
+- **💼 Business Intelligence & Automation**  
+  *Workflow Automation, Operations Optimization, and Data-Driven Business Models*
 
 ---
 
@@ -76,7 +77,7 @@
   <a href="https://github.com/rafaelhartono8">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/rafaelhartono8">
+  <a href="https://www.linkedin.com/in/rafaelhuang88">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:24031554166@mhs.unesa.ac.id">
