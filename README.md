@@ -6,13 +6,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Data+Science+Student+at+UNESA+(State+University+of+Surabaya);AI%2C+Computer+Vision+%26+NLP+Enthusiast;Drone+%26+Satellite+Geospatial+Monitoring;Business+Intelligence+%26+Workflow+Automation;CachyOS+Linux+Ricer+%F0%9F%90%A7" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="Divider">
-</div>
-
 <p align="center">
   <em>"Nothing is Instant and Instant is Nothing"</em>
 </p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rafaelhuang88">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:24031554166@mhs.unesa.ac.id">
+    <img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="Email Badge"/>
+  </a>
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="Divider">
+</div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px" alt="Stats Icon"> Profile & Language Stats
 
@@ -70,20 +80,6 @@
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=rafaelhartono8&repo=Multi-Asset-Analysis-1927-to-Now&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Multi-Asset Analysis Repo" />
   </a>
 </p>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28px" alt="Connect Icon"> Connect With Me
-
-<div align="center">
-  <a href="https://github.com/rafaelhartono8">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rafaelhuang88">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:24031554166@mhs.unesa.ac.id">
-    <img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="Email Badge"/>
-  </a>
-</div>
 
 <div align="center">
   <br />
